@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains Jupyter notebooks covering a machine learning pipeline designed to detect and characterize DDoS attacks. We applied both supervised and unsupervised learning techniques to analyze real network traffic flow and identify DDOS attacks flows
+This repository contains Jupyter notebooks covering a machine learning pipeline designed to detect and characterize DDoS attacks. We applied both supervised and unsupervised learning techniques to analyze real network traffic flow and identify DDOS attack flows.
 
 ## Files
 
